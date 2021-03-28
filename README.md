@@ -23,7 +23,7 @@
 
 <hr />
 
-<p align="center">In this project, I learned very important concepts from Next.js, like Server Side Rendering, Static Side Generation, API Routes, integration with Stripe, an internet payment infrastructure, webhooks with Stripe, data persistence in FaunaDB, a non-relational database focused on serverless, authentication with GitHub using Next Auth and best practices in css using Sass.
+<p align="center">In this project, I learned very important concepts from Next.js, like Server Side Rendering, Static Site Generation, API Routes, integration with Stripe, an internet payment infrastructure, webhooks with Stripe, data persistence in FaunaDB, a non-relational database focused on serverless, authentication with GitHub using Next Auth and best practices in css using Sass.
 </p>
 
 <div align="center">
